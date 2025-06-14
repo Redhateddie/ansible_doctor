@@ -1,4 +1,4 @@
 [servers]
-host1 ansible_host=192.168.1.161 ansible_user=nanaedde
+host1 ansible_host=192.168.1.161 ansible_user=nanaeddie
 host2 ansible_host=192.168.1.165 ansible_user=kojoeddie
 host3 ansible_host=192.168.1.166 ansible_user=eddieblaze
